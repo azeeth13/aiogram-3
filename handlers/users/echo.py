@@ -5,4 +5,4 @@ router = Router()
 
 @router.message()
 async def start_user(message: types.Message):
-    await message.answer(f"{message.text}\nBotdan foydalanshingiz mumkin")
+    await message.answer(f"{message.text}\ndsadsa")
